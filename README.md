@@ -20,6 +20,6 @@ It allows you to **add, view, search, update, and delete** student records.
 - Lists, Dictionaries
 - Functions and Loops
 - Conditional Statements
-- (Optional) OOP concepts
 
----
+
+
